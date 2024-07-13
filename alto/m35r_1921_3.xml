@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>BIS_09_00019_0012.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT12969" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT5524" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1014"
+          HEIGHT="1494"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1014"
+                  HEIGHT="1494">
+        
+        <TextBlock HPOS="179"
+                   VPOS="189"
+                   WIDTH="655"
+                   HEIGHT="95"
+                   ID="eSc_textblock_82f2676d"
+                   TAGREFS="BT12969">
+          <Shape><Polygon POINTS="525 189 821 192 834 202 831 284 179 284 179 192 525 189"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7621291a"
+                    TAGREFS="LT5524"
+                    BASELINE="181 214 827 210" 
+                    HPOS="180"
+                    VPOS="189"
+                    WIDTH="647"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="819 192 735 192 734 192 729 190 728 190 720 190 711 190 704 190 698 192 688 190 686 190 678 190 670 190 661 190 640 193 637 193 636 193 628 190 620 190 616 190 604 193 603 193 587 189 578 189 577 189 559 193 505 189 504 189 504 189 494 194 493 195 445 195 424 195 398 190 396 190 388 190 363 194 348 190 346 190 338 190 336 190 326 195 304 190 304 190 296 190 288 190 279 190 271 190 263 191 254 191 246 191 238 191 230 191 221 191 213 191 205 191 200 191 180 195 181 214 181 224 194 229 195 229 195 229 221 224 298 229 298 229 299 229 311 224 315 224 445 228 446 228 447 228 448 228 456 223 457 223 474 223 665 227 666 227 705 222 715 221 826 221 827 210 825 196 819 192"/></Shape>
+	    <String CONTENT="à cheval pendant des journées entières; et un des noms"
+                    HPOS="180"
+                    VPOS="189"
+                    WIDTH="647"
+                    HEIGHT="40"
+                    WC="0.9917827279944169"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b74fceef"
+                    TAGREFS="LT5524"
+                    BASELINE="182 246 827 243" 
+                    HPOS="181"
+                    VPOS="223"
+                    WIDTH="646"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="182 246 182 259 826 253 827 243 824 223 181 224 182 246"/></Shape>
+	    <String CONTENT="populaires que le paysan applique à ces hauteurs"
+                    HPOS="181"
+                    VPOS="223"
+                    WIDTH="646"
+                    HEIGHT="36"
+                    WC="0.9997980472992878"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09629ebe"
+                    TAGREFS="LT5524"
+                    BASELINE="183 278 827 274" 
+                    HPOS="182"
+                    VPOS="251"
+                    WIDTH="645"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="183 278 185 295 194 289 230 289 246 294 253 296 254 296 254 297 319 297 319 296 320 296 330 292 345 288 361 292 373 295 374 295 413 292 448 288 453 291 461 295 462 295 463 295 522 294 541 290 551 288 656 288 659 288 676 293 676 293 677 293 717 287 722 287 727 287 787 293 788 293 788 293 789 293 798 287 827 285 827 274 826 258 755 258 728 251 727 251 726 251 725 251 702 258 666 251 666 251 665 251 664 251 654 258 623 253 622 253 622 253 603 258 572 252 571 252 570 252 569 252 559 259 538 259 525 252 524 252 505 252 504 252 504 252 489 258 439 254 438 254 437 254 418 259 346 253 345 253 344 253 320 259 308 254 308 254 307 254 306 254 294 258 288 253 287 253 286 253 243 253 242 253 241 253 220 260 212 253 211 253 210 253 210 253 209 253 182 261 183 278"/></Shape>
+	    <String CONTENT="est celui de Plaiu qui signifie chemin. En effet, tous"
+                    HPOS="182"
+                    VPOS="251"
+                    WIDTH="645"
+                    HEIGHT="46"
+                    WC="0.9916786606665011"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="457"
+                   VPOS="146"
+                   WIDTH="89"
+                   HEIGHT="25"
+                   ID="eSc_textblock_f5dc97b6"
+                   TAGREFS="BT12969">
+          <Shape><Polygon POINTS="495 146 539 149 546 158 516 171 457 165 495 146"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_32749764"
+                    TAGREFS="LT5524"
+                    BASELINE="491 162 524 162" 
+                    HPOS="491"
+                    VPOS="146"
+                    WIDTH="33"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="491 147 491 162 491 174 524 180 524 162 524 149 494 146 491 147"/></Shape>
+	    <String CONTENT=""
+                    HPOS="491"
+                    VPOS="146"
+                    WIDTH="33"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="209"
+                   VPOS="972"
+                   WIDTH="602"
+                   HEIGHT="69"
+                   ID="eSc_textblock_9c654d28"
+                   TAGREFS="BT12969">
+          <Shape><Polygon POINTS="220 972 808 972 811 998 781 1015 627 1015 612 1035 567 1041 464 1031 513 1021 454 1021 460 1031 444 1035 436 1021 411 1031 396 1018 235 1018 209 995 220 972"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8d74a4e7"
+                    TAGREFS="LT5524"
+                    BASELINE="213 991 808 988" 
+                    HPOS="212"
+                    VPOS="972"
+                    WIDTH="596"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="802 973 744 972 735 972 727 972 719 972 710 972 702 972 694 972 685 972 677 972 669 972 661 972 652 972 644 972 636 972 627 972 619 972 611 972 607 972 600 975 541 975 535 972 528 972 519 972 515 972 509 975 508 975 500 975 431 972 428 972 420 972 411 972 403 972 395 972 386 972 378 972 370 972 362 972 353 972 345 972 341 972 315 976 313 976 308 976 246 972 245 972 237 972 229 972 226 972 219 974 212 984 213 991 213 1006 808 1003 808 988 807 984 802 973"/></Shape>
+	    <String CONTENT="Vue caractéristique des sommets carpatiques appelés Plaiu,"
+                    HPOS="212"
+                    VPOS="972"
+                    WIDTH="596"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b639c01"
+                    TAGREFS="LT5524"
+                    BASELINE="405 1012 610 1010" 
+                    HPOS="404"
+                    VPOS="997"
+                    WIDTH="206"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="405 1012 405 1022 416 1027 417 1027 418 1027 419 1027 429 1023 438 1027 439 1027 440 1027 465 1023 465 1023 501 1027 502 1027 525 1023 531 1022 539 1023 564 1026 565 1026 610 1023 610 1010 607 997 404 998 405 1012"/></Shape>
+	    <String CONTENT="au fond le Paringu."
+                    HPOS="404"
+                    VPOS="997"
+                    WIDTH="206"
+                    HEIGHT="30"
+                    WC="0.9994725396758631"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="189"
+                   VPOS="1045"
+                   WIDTH="655"
+                   HEIGHT="219"
+                   ID="eSc_textblock_bb86e67a"
+                   TAGREFS="BT12969">
+          <Shape><Polygon POINTS="575 1045 600 1055 837 1062 844 1254 791 1264 189 1257 192 1062 476 1059 575 1045"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_19458701"
+                    TAGREFS="LT5524"
+                    BASELINE="191 1083 835 1078" 
+                    HPOS="191"
+                    VPOS="1057"
+                    WIDTH="644"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="830 1061 822 1061 813 1061 805 1060 797 1060 788 1060 780 1060 772 1059 764 1059 755 1059 747 1059 739 1059 730 1059 729 1059 724 1062 660 1062 652 1058 649 1057 648 1057 582 1057 581 1057 565 1059 533 1062 520 1059 514 1057 513 1057 512 1057 480 1059 405 1064 390 1059 382 1059 379 1059 347 1064 332 1059 332 1060 323 1060 318 1060 313 1064 290 1060 290 1060 282 1060 277 1060 266 1064 259 1060 257 1061 249 1061 220 1064 191 1060 191 1083 191 1093 264 1093 289 1098 289 1098 290 1098 291 1098 298 1092 299 1092 347 1092 347 1092 356 1096 357 1096 357 1096 358 1096 359 1096 365 1092 388 1095 389 1095 390 1095 404 1092 406 1091 411 1091 439 1096 440 1096 440 1096 457 1091 459 1091 463 1091 505 1096 506 1096 507 1096 508 1096 513 1092 616 1095 617 1095 617 1095 631 1090 635 1089 643 1090 667 1094 668 1094 698 1090 707 1089 720 1090 761 1093 762 1093 835 1089 835 1078 833 1061 830 1061"/></Shape>
+	    <String CONTENT="les vieux chemins passent par là et sont suivis par"
+                    HPOS="191"
+                    VPOS="1057"
+                    WIDTH="644"
+                    HEIGHT="41"
+                    WC="0.9998214084368485"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c941b685"
+                    TAGREFS="LT5524"
+                    BASELINE="191 1116 307 1113" 
+                    HPOS="190"
+                    VPOS="1093"
+                    WIDTH="117"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="191 1116 191 1125 228 1131 229 1131 307 1124 307 1113 305 1097 190 1093 191 1116"/></Shape>
+	    <String CONTENT="les pâtres"
+                    HPOS="190"
+                    VPOS="1093"
+                    WIDTH="117"
+                    HEIGHT="38"
+                    WC="0.9615105932409113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d584bcc3"
+                    TAGREFS="LT5524"
+                    BASELINE="220 1153 836 1149" 
+                    HPOS="220"
+                    VPOS="1124"
+                    WIDTH="616"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="220 1153 220 1163 257 1167 258 1167 325 1163 326 1163 342 1167 342 1167 343 1167 383 1162 387 1162 391 1162 433 1166 434 1166 455 1162 456 1162 542 1166 543 1166 543 1166 544 1166 551 1162 552 1162 557 1162 668 1165 669 1165 835 1159 836 1149 834 1130 731 1124 730 1124 729 1124 710 1130 709 1130 697 1130 615 1126 614 1126 547 1130 529 1131 515 1130 466 1126 465 1126 438 1130 426 1132 220 1131 220 1153"/></Shape>
+	    <String CONTENT="Voyez le panorama qu’on découvre au col de Pre-"
+                    HPOS="220"
+                    VPOS="1124"
+                    WIDTH="616"
+                    HEIGHT="43"
+                    WC="0.9810552584628264"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c757c96"
+                    TAGREFS="LT5524"
+                    BASELINE="191 1186 837 1182" 
+                    HPOS="190"
+                    VPOS="1161"
+                    WIDTH="647"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="190 1165 191 1186 191 1195 836 1196 837 1182 835 1161 190 1164 190 1165"/></Shape>
+	    <String CONTENT="deal, ou du haut des cimes de Bucegi vers l’Est, ou"
+                    HPOS="190"
+                    VPOS="1161"
+                    WIDTH="647"
+                    HEIGHT="35"
+                    WC="0.9994701544443766"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_451f05b7"
+                    TAGREFS="LT5524"
+                    BASELINE="191 1219 838 1215" 
+                    HPOS="191"
+                    VPOS="1191"
+                    WIDTH="647"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="191 1219 191 1228 316 1232 317 1232 353 1228 355 1228 358 1228 439 1231 440 1231 460 1227 463 1227 474 1227 545 1230 546 1230 573 1227 579 1226 838 1226 838 1215 837 1198 810 1198 802 1191 801 1191 800 1191 799 1191 724 1196 710 1191 709 1191 708 1191 675 1192 674 1192 673 1192 665 1198 636 1192 587 1192 586 1192 585 1192 584 1192 577 1198 545 1193 544 1193 543 1193 543 1193 533 1199 533 1200 514 1200 512 1199 475 1193 474 1193 440 1199 435 1201 413 1201 411 1200 404 1194 403 1194 402 1194 401 1194 372 1200 368 1201 312 1201 308 1200 290 1195 289 1195 289 1195 288 1195 287 1195 279 1200 279 1201 274 1200 254 1196 254 1196 253 1196 244 1200 242 1201 239 1200 215 1195 214 1195 191 1200 191 1219"/></Shape>
+	    <String CONTENT="encore des premières crêtes des Monts de Fogarash..."
+                    HPOS="191"
+                    VPOS="1191"
+                    WIDTH="647"
+                    HEIGHT="41"
+                    WC="0.9994618947859164"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2364ca0e"
+                    TAGREFS="LT5524"
+                    BASELINE="196 1252 839 1246" 
+                    HPOS="195"
+                    VPOS="1224"
+                    WIDTH="644"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="196 1252 196 1272 231 1272 231 1271 232 1271 248 1264 275 1271 278 1271 279 1271 279 1271 280 1271 292 1264 361 1270 365 1270 366 1270 367 1270 367 1270 388 1263 410 1263 419 1269 420 1269 421 1269 421 1269 422 1269 423 1269 431 1262 471 1262 513 1269 514 1269 564 1261 612 1262 622 1268 623 1268 624 1268 671 1267 671 1267 672 1267 680 1262 744 1267 745 1267 746 1267 747 1267 767 1260 784 1266 785 1266 786 1267 838 1267 839 1246 837 1225 776 1229 767 1225 764 1224 763 1224 762 1224 761 1224 756 1225 744 1230 707 1230 693 1226 683 1224 682 1224 681 1224 663 1227 641 1230 627 1227 619 1225 618 1225 617 1225 617 1225 616 1225 613 1227 609 1230 597 1228 584 1225 583 1225 582 1225 573 1228 562 1231 552 1228 542 1225 541 1225 540 1225 539 1225 528 1229 518 1231 509 1229 504 1228 504 1228 503 1228 490 1230 465 1233 445 1233 441 1230 435 1226 435 1226 434 1226 412 1226 411 1226 411 1226 410 1226 405 1230 401 1232 386 1230 348 1227 347 1227 347 1227 346 1227 341 1231 338 1234 308 1234 304 1232 291 1227 290 1227 289 1227 268 1231 243 1228 242 1228 241 1228 231 1233 230 1233 217 1228 216 1228 215 1228 215 1228 195 1233 196 1252"/></Shape>
+	    <String CONTENT="Abstraction faite des sommets déchiquetés, qui par-"
+                    HPOS="195"
+                    VPOS="1224"
+                    WIDTH="644"
+                    HEIGHT="48"
+                    WC="0.9991563659793926"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
