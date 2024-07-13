@@ -12,6 +12,6 @@ We used [eScriptorium](https://escriptorium.inria.fr/) with the CATMuS Print \[L
 ## Content
 The folders contain:
 - the ALTO files for each page.
-- the images for each page.
+- the image files for each page.
 - the model used for the OCR.
 - the text files for each book.
